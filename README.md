@@ -1,5 +1,5 @@
 # hello-world
-First repository
+
 This is Tami.
 
 I like delicious cakes and gaming.
